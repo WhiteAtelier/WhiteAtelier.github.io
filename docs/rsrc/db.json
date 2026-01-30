@@ -119,6 +119,36 @@
             "label": "openusd",
             "topic": "Pixar の OpenUSD についての情報をまとめたカテゴリです。",
             "parent": 1466848000101060770
+        },
+        {
+            "id": 1466818257041494181,
+            "label": "一般",
+            "topic": null,
+            "parent": null
+        },
+        {
+            "id": 1466848000101060770,
+            "label": "3DCG",
+            "topic": null,
+            "parent": null
+        },
+        {
+            "id": 1466848076336599291,
+            "label": "プログラミング",
+            "topic": null,
+            "parent": null
+        },
+        {
+            "id": 1466848201264070719,
+            "label": "cpp",
+            "topic": null,
+            "parent": 1466848076336599291
+        },
+        {
+            "id": 1466848381312827453,
+            "label": "openusd",
+            "topic": "Pixar の OpenUSD についての情報をまとめたカテゴリです。",
+            "parent": 1466848000101060770
         }
     ],
     "pages": [
@@ -127,9 +157,9 @@
             "title": "OpenUSD を使ってみよう",
             "path": "0053/145b4aef7540/145b4aef75400053.md",
             "category": 1466848381312827453,
-            "updated_at": 1769799630,
+            "updated_at": 1769800385,
             "created_at": 1769794335,
-            "latest_message_id": 1466870710638084341
+            "latest_message_id": 1466873879006806260
         }
     ]
 }
