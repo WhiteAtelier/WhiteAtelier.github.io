@@ -149,6 +149,36 @@
             "label": "openusd",
             "topic": "Pixar の OpenUSD についての情報をまとめたカテゴリです。",
             "parent": 1466848000101060770
+        },
+        {
+            "id": 1466848000101060770,
+            "label": "3DCG",
+            "topic": null,
+            "parent": null
+        },
+        {
+            "id": 1466848076336599291,
+            "label": "プログラミング",
+            "topic": null,
+            "parent": null
+        },
+        {
+            "id": 1466848201264070719,
+            "label": "cpp",
+            "topic": null,
+            "parent": 1466848076336599291
+        },
+        {
+            "id": 1466848381312827453,
+            "label": "openusd",
+            "topic": "Pixar の OpenUSD についての情報をまとめたカテゴリです。",
+            "parent": 1466848000101060770
+        },
+        {
+            "id": 1466881347292233839,
+            "label": "pastel",
+            "topic": null,
+            "parent": 1466848000101060770
         }
     ],
     "pages": [
@@ -160,6 +190,15 @@
             "updated_at": 1769800385,
             "created_at": 1769794335,
             "latest_message_id": 1466873879006806260
+        },
+        {
+            "id": 1466881505920946269,
+            "title": "Pastel Renderer のドキュメント",
+            "path": "105d/145b68f53002/145b68f53002105d.md",
+            "category": 1466881347292233839,
+            "updated_at": 1769802205,
+            "created_at": 1769802205,
+            "latest_message_id": 1466881509687431188
         }
     ]
 }
