@@ -41,6 +41,54 @@
             "label": "ストレージ",
             "topic": null,
             "parent": "1466896895216586937"
+        },
+        {
+            "id": "1466848000101060770",
+            "label": "3DCG",
+            "topic": null,
+            "parent": null
+        },
+        {
+            "id": "1466848076336599291",
+            "label": "プログラミング",
+            "topic": null,
+            "parent": null
+        },
+        {
+            "id": "1466848201264070719",
+            "label": "cpp",
+            "topic": null,
+            "parent": "1466848076336599291"
+        },
+        {
+            "id": "1466848381312827453",
+            "label": "openusd",
+            "topic": "Pixar の OpenUSD についての情報をまとめたカテゴリです。",
+            "parent": "1466848000101060770"
+        },
+        {
+            "id": "1466881347292233839",
+            "label": "pastel",
+            "topic": null,
+            "parent": "1466848000101060770"
+        },
+        {
+            "id": "1466896895216586937",
+            "label": "サーバー運用",
+            "topic": null,
+            "parent": null
+        },
+        {
+            "id": "1466896924320862270",
+            "label": "ストレージ",
+            "topic": null,
+            "parent": "1466896895216586937"
+        },
+        {
+            "id": "1467000303806058629",
+            "label": "announcement",
+            "topic": null,
+            "parent": "1466818257041494178"
         }
     ],
     "pages": [
@@ -58,9 +106,9 @@
             "title": "目標",
             "path": "007b/145b77282942/145b77282942007b.md",
             "category": "1466896924320862270",
-            "updated_at": 1769805927,
+            "updated_at": 1769831037,
             "created_at": 1769805927,
-            "latest_message_id": "1466897120765149336"
+            "latest_message_id": "1467002442146254869"
         }
     ]
 }
